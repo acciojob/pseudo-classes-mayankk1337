@@ -5,7 +5,7 @@ main p:first-child{
 	color:white;
 	background:black;
 }
- main p:last-child{
+ main p:last-of-type{
 	color:red;	
 }
 
